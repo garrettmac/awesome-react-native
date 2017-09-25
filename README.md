@@ -145,7 +145,7 @@ Content published on the Web.
 Components and native modules. For more search [JS.COACH](https://js.coach/react-native).
 
 ### UI
-- [react-native-pagination ★5](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
+- [react-native-pagination ★50](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
 - [react-native-search-box★87](https://github.com/crabstudio/react-native-search-box) - A simple search box with animation, inspired from ios search bar.
 - [rn-placeholder★37](https://github.com/mfrachet/rn-placeholder) - Skeleton placeholder loader with (optional) animations
 - [rn-sliding-up-panel ★22](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.
@@ -574,7 +574,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 
 ### System
-
+- [react-native-game-center ★50](https://github.com/garrettmac/react-native-game-center) - React Native Game Center - integrates React Native apps with Apples Game Center (iOS only)
 - [react-native-addressbook ★65](https://github.com/rt2zz/react-native-addressbook) - AddressBook module for react-native
 - [react-native-android-geolocation ★17](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
 - [react-native-android-sms-listener ★66](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
